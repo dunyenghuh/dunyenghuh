@@ -2,11 +2,13 @@
 
 My name is Dunyeng(Daniel) Huh, and I am a current Masters student at Northwestern's Analytics program. 
 <br> I am a data scientist with interest in statistical analysis and machine learning. 
-My github repositories show my past projects on prediction / classification / NLP / clustering / Time Series Analysis. 
+My github repositories should show my past projects on prediction / classification / NLP / clustering / Time Series Analysis. 
 
-You can also check me out from Linkedin and email me as well. 
+<br> You can reach me thru the below links:
+<br> Linkedin: https://www.linkedin.com/in/dunyenghuh/ 
+<br> Email: dunyeng.huh@gmail_dot_com
 
-Have a nice day! 
+<br> Have a nice day! 
 
 
 
