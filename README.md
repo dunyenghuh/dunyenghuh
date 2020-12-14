@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+My name is Dunyeng(Daniel) Huh, and I am a current Masters student at Northwestern's Analytics program. 
+<br> I am a data scientist with interest in statistical analysis and machine learning. 
+My github repositories show my past projects on prediction / classification / NLP / clustering / Time Series Analysis. 
+
+You can also check me out from Linkedin and email me as well. 
+
+Have a nice day! 
+
+
+
+
 <!--
 **dunyenghuh/dunyenghuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
