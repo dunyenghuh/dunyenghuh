@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Dunyeng(Daniel) Huh, and I am a current Masters student at Northwestern's Analytics program. 
+My name is Dunyeng(Daniel) Huh, and I am a Data Scientist at Faire &  Graduate of Northwestern's Master of Science in Analytics program. 
 <br> I am a data scientist with interest in statistical analysis and machine learning. 
-My github repositories should show my past projects on prediction / classification / NLP / clustering / Time Series Analysis. 
+My github repositories exhibit my past projects on prediction / classification / NLP / clustering / Time Series Analysis. 
 
 <br> You can reach me thru the below links:
 <br> Linkedin: https://www.linkedin.com/in/dunyenghuh/ 
